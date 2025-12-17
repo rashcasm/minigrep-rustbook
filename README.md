@@ -15,7 +15,6 @@ Ensure you have Rust installed on your system. You can install Rust from [rustup
 Clone the repository and build the project:
 
 ```bash
-git clone <repository-url>
 cd minigrep
 cargo build --release
 ```
@@ -34,7 +33,7 @@ For example:
 cargo run kantha ./geetgovind.txt
 ```
 
-This will search for the word "khandana" in the file `geetgovind.txt` and print the matching lines.
+This will search for the word "kantha" in the file `geetgovind.txt` and print the matching lines.
 
 ## How It Works
 
